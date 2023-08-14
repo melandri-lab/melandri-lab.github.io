@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  #site-url: https://melandri-lab.github.io/
+  site-url: https://melandri-lab.github.io/
   #title: ""
   
   #google-analytics: 

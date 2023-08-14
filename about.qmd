@@ -8,7 +8,7 @@ title: "About"
 In the Melandri Lab, we investigate physiological and biochemical mechanisms able to confer heat and drought stress tolerance to crops and their underlying genetic control. To achieve this, we target a widened pool of genetic diversity for major crops, such as sorghum (Sorghum bicolor) and upland cotton (Gossypium hirsutum), in the attempt to bring in the effect of novel alleles.
 
 :::{.column-margin}
-```{r fig.width=4}
+```{r}
 #| echo: false
 knitr::include_graphics("img/field.jpg")
 ```
