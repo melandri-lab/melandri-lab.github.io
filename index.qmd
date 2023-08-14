@@ -1,13 +1,21 @@
 ---
+title: "Melandri Lab"
 
+about:
+  id: hero-heading
+  template: jolla
+  image: img/melandri.jpg
+  links:
+    - text: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=8zWCTkUAAAAJ&hl=en"
+    - text: "Research Gate"
+      url: "https://www.researchgate.net/profile/Giovanni-Melandri-2"
+    - text: Twitter
+      icon: twitter
+      url: "https://twitter.com/GiovanniMeland1"
+
+comments: false
 ---
-title: "melandri-lab.github.io"
+
+In the Melandri Lab, we investigate physiological and biochemical mechanisms able to confer heat and drought stress tolerance to crops and their underlying genetic control. To achieve this, we target a widened pool of genetic diversity for major crops, such as sorghum (Sorghum bicolor) and upland cotton (Gossypium hirsutum), in the attempt to bring in the effect of novel alleles.
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

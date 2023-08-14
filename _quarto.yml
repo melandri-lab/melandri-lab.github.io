@@ -1,19 +1,38 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "melandri-lab.github.io"
+  #site-url: https://melandri-lab.github.io/
+  #title: ""
+  
+  #google-analytics: 
+    #tracking-id: "G-LW03VL0YTS" #"UA-242992767-1"
+    #anonymize-ip: true
+    
+  favicon: img/sun_favicon.svg
+
   navbar:
-    left:
+    logo: img/logo_rectangular.svg
+    logo-alt: "Melandri Lab"
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: contact.qmd
+        text: Contact
+  page-footer: 
+    left: Copyright 2023, Melandri Lab
+    
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: custom.scss
     toc: true
+    page-layout: full
 
 editor: visual
 
