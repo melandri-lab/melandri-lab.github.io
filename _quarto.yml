@@ -22,10 +22,21 @@ website:
         text: About
       - href: publications.qmd
         text: Publications
-      - href: contact.qmd
-        text: Contact
+      - href: people.qmd
+        text: People
+      - icon: envelope
+        href: mailto:gmelandri@arizona.edu
+      
   page-footer: 
     left: Copyright 2023, Melandri Lab
+    right:
+      - text: "Google Scholar"
+        url: "https://scholar.google.com/citations?user=8zWCTkUAAAAJ&hl=en"
+      - text: "Research Gate"
+        url: "https://www.researchgate.net/profile/Giovanni-Melandri-2"
+      - text: Twitter
+        icon: twitter
+        url: "https://twitter.com/GiovanniMeland1"
     
 
 format:

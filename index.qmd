@@ -27,10 +27,7 @@ In the Melandri Lab, we investigate physiological and biochemical mechanisms abl
 :::
 
 ::: {.columns}
-```{r}
-#| echo: false
-knitr::include_graphics("img/field.jpg")
-```
+
 :::
 
 ::::

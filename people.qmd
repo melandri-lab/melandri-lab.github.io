@@ -1,0 +1,68 @@
+---
+title: "People"
+---
+
+::: ppl
+
+<!-- Giovanni -->
+::: person
+::: headshot
+![](img/melandri.jpg)
+:::
+::: blurb
+### Giovanni Melandri
+###### Assistant Professor
+Bio here
+:::
+:::
+
+::: person
+::: headshot
+![](img/placeholder.jpg)
+:::
+
+::: blurb
+### Marlon 
+###### PostDoc
+Bio here
+:::
+:::
+
+<!-- Chosen -->
+::: person
+::: headshot
+![](img/placeholder.jpg)
+:::
+
+::: blurb
+### Chosen
+###### PhD Student
+Bio here
+:::
+:::
+
+<!-- Sarah -->
+::: person
+::: headshot
+![](img/placeholder.jpg)
+:::
+
+::: blurb
+### Sarah
+###### Research Technician
+Bio here
+:::
+:::
+<!-- Nathan -->
+::: person
+::: headshot
+![](img/placeholder.jpg)
+:::
+
+::: blurb
+### Nathan
+###### Undergraduate Researcher
+Bio here
+:::
+:::
+:::

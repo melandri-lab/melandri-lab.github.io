@@ -59,6 +59,7 @@ a {
   width: auto;
 }
 
+
 .columns {
   padding: 20px;
   font-size: 1.2rem;
@@ -73,6 +74,51 @@ a {
     color: $gunmetal;
   }
 }
+.pub {
+  padding: 15px;
+}
 
+
+//people
+
+
+.ppl {
+  //background-color: $yellow;
+  display: table;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  height: auto;
+  width: 100%;
+}
+
+.person {
+  //background-color: #F89;
+  display: table-row;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+
+.headshot {
+  //background-color: #009;
+  max-width: 150px;
+  max-height: 150px;
+  margin-right: 20px;
+  display: table-cell;
+}
+.headshot .img-fluid {
+  width: 300px; //fix this later
+  border-radius: 50%;
+  align-content: center;
+
+}
+.blurb {
+  //background-color: #1B2;
+  text-align: left;
+  display: table-cell;
+  padding: 20px;
+}
 
 
