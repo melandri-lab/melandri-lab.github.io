@@ -1,7 +1,21 @@
 [
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "For the most up-to-date list of publications, please visit Google Scholar\n\n\n\n2023\n\n\nAndreo-Jimenez, B., te Beest, D.E., Kruijer, W. et al. Genetic Mapping of the Root Mycobiota in Rice and its Role in Drought Tolerance. Rice 16, 26 (2023). https://doi.org/10.1186/s12284-023-00641-4\n\n\n2022"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Melandri Lab",
+    "section": "",
+    "text": "In the Melandri Lab, we investigate physiological and biochemical mechanisms able to confer heat and drought stress tolerance to crops and their underlying genetic control. To achieve this, we target a widened pool of genetic diversity for major crops, such as sorghum (Sorghum bicolor) and upland cotton (Gossypium hirsutum), in the attempt to bring in the effect of novel alleles."
+  },
+  {
+    "objectID": "index.html#our-research",
+    "href": "index.html#our-research",
     "title": "Melandri Lab",
     "section": "",
     "text": "In the Melandri Lab, we investigate physiological and biochemical mechanisms able to confer heat and drought stress tolerance to crops and their underlying genetic control. To achieve this, we target a widened pool of genetic diversity for major crops, such as sorghum (Sorghum bicolor) and upland cotton (Gossypium hirsutum), in the attempt to bring in the effect of novel alleles."
@@ -11,13 +25,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Research\nIn the Melandri Lab, we investigate physiological and biochemical mechanisms able to confer heat and drought stress tolerance to crops and their underlying genetic control. To achieve this, we target a widened pool of genetic diversity for major crops, such as sorghum (Sorghum bicolor) and upland cotton (Gossypium hirsutum), in the attempt to bring in the effect of novel alleles.\n\n\n\n\n\n\n\nOur research approach employs a mix of physiological phenotyping, omics analyses, predictive modeling, and genetic mapping that we apply to field trials conducted in the Arizona low desert.\nThe Melandri Lab is part of the School of Plant Sciences at the University of Arizona. The lab is based in Tucson and in Maricopa."
+    "text": "Our Research\nIn the Melandri Lab, we investigate physiological and biochemical mechanisms able to confer heat and drought stress tolerance to crops and their underlying genetic control. To achieve this, we target a widened pool of genetic diversity for major crops, such as sorghum (Sorghum bicolor) and upland cotton (Gossypium hirsutum), in the attempt to bring in the effect of novel alleles.\n\n\n\n\n\n\n\nOur research approach employs a mix of physiological phenotyping, omics analyses, predictive modeling, and genetic mapping that we apply to field trials conducted in the Arizona low desert.\nThe Melandri Lab is part of the School of Plant Sciences at the University of Arizona. The lab is based in Tucson and in Maricopa."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact Us",
     "section": "",
-    "text": "Are you interested in understanding how to improve crop resilience to the climate of the future?\nJoin or follow us!"
+    "text": "Are you interested in understanding how to improve crop resilience to the climate of the future?\n\n\nJoin or follow us!"
   }
 ]

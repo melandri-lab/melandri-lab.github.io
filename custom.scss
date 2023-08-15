@@ -1,20 +1,40 @@
-/*-- scss:defaults --*/
-$h2-font-size:          1.6rem !default;
-$headings-font-weight:  500 !default;
-$body-color:            #791231 !default;
+
+// font
+  @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
 
 // colors
 
 $maroon: #791231;
 $yellow: #F49800;
 $gray: #64605f;
-$link-color: #660066;
+$gunmetal: #1B2F33;
+$white: #EFF1ED;
+$taupe: #84828F;
+$highlight: #d303fc;
+
+// element colors
+$navbar-bg: $maroon;
+$body-bg: $white;
+
 
 
 /*-- scss:rules --*/
 h1, h2, h3, h4, h5, h6 {
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   font-weight: 700;
+  color: $gray;
+  font-family: "Raleway", "Times", Sans-Serif;
+
+}
+ .yr {
+    color: $gunmetal;
+  }
+
+a {
+  color: $gunmetal;
+}
+
+.title {
   color: $gray;
 }
 
@@ -24,18 +44,35 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   padding: 10px 10px;
 }
+
 .navbar-logo {
   width: 1500px;
   height: 200px;
-  padding: 0px 0px;
+  padding: auto;
 }
 .navbar-brand img { 
   max-height: 60px;
   width: auto;
 }
 
-
 .column-margin {
   width: auto;
 }
+
+.columns {
+  padding: 20px;
+  font-size: 1.2rem;
+  font-family: "Verdana", "Helvetica", Sans-Serif;
+}
+
+//publications
+
+.pub-list {
+  color: $gunmetal;
+  a {
+    color: $gunmetal;
+  }
+}
+
+
 

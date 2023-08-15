@@ -1,5 +1,29 @@
 ---
 title: "Publications"
-editor_options: 
-    chunk_output_type: console
+
+---
+
+::: {.h5}
+For the most up-to-date list of publications, please visit [Google Scholar](https://scholar.google.com/citations?user=8zWCTkUAAAAJ&hl=en)
+:::
+
+
+:::::{.pub-list}
+
+::::{.h2 .yr}
+2023
+::::
+
+:::{.pub}
+Andreo-Jimenez, B., te Beest, D.E., Kruijer, W. *et al*. **Genetic Mapping of the Root Mycobiota in Rice and its Role in Drought Tolerance**. *Rice* 16, 26 (2023). [https://doi.org/10.1186/s12284-023-00641-4](https://doi.org/10.1186/s12284-023-00641-4)
+:::
+
+
+::::{.h2 .yr}
+2022
+::::
+
+
+:::::
+
 ---
