@@ -1,12 +1,9 @@
 ---
-title: "Melandri Lab"
-image: img/field_banner.jpg
+title: ""
 about:
-  image-shape: rectangle
-  image-width: 100%
+
   id: hero-heading
   template: jolla
-  #image: img/field.jpg
   links:
     - text: "Google Scholar"
       url: "https://scholar.google.com/citations?user=8zWCTkUAAAAJ&hl=en"
@@ -15,19 +12,27 @@ about:
     - text: Twitter
       icon: twitter
       url: "https://twitter.com/GiovanniMeland1"
-
 comments: false
 ---
 
-:::: {.main style="display: flex;"}
+::: {.main style="display: block;"}
 
-::: {.columns}
-## Our Research
-In the Melandri Lab, we investigate physiological and biochemical mechanisms able to confer heat and drought stress tolerance to crops and their underlying genetic control. To achieve this, we target a widened pool of genetic diversity for major crops, such as sorghum (Sorghum bicolor) and upland cotton (Gossypium hirsutum), in the attempt to bring in the effect of novel alleles.
+::: title-banner
+::: title-text
+
+:::{.welcome}
+welcome to the
 :::
 
-::: {.columns}
-
+:::{.lab}
+Melandri Lab
 :::
 
-::::
+:::{.uofa}
+at the **University of Arizona**
+:::
+
+:::
+![](img/field_banner3.jpg)
+:::
+:::

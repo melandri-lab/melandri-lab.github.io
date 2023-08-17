@@ -1,0 +1,31 @@
+---
+title: "Gallery"
+format: html
+filters:
+   - lightbox
+lightbox: auto
+---
+
+::: {style="display: grid;grid-template-columns: auto auto auto;row-gap: 3em;column-gap: 3em;"}
+![](img/field_aerial.jpg){group="my-gallery" fig-alt="Aerial View of Sorghum Field" }
+
+![](img/field.jpg){group="my-gallery" fig-alt="Sorghum" }
+
+![](img/field_edited2.jpg){group="my-gallery" fig-alt="Sorghum Field"}
+
+![](img/drone_screenshot.jpg){group="my-gallery" fig-alt="Aerial View of Sorghum Field"}
+
+![](img/field1.jpg){group="my-gallery" fig-alt="Sorghum Field"}
+
+![](img/field2.jpg){group="my-gallery" fig-alt="Sorghum Field"}
+
+![](img/field3.jpg){group="my-gallery" fig-alt="Sorghum Field"}
+
+![](img/field4.jpg){group="my-gallery" fig-alt="Sorghum Plant"}
+
+![](img/field5.jpg){group="my-gallery" fig-alt="Sorghum Plants"}
+
+
+:::
+
+------------------------------------------------------------------------

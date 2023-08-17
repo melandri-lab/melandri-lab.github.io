@@ -3,15 +3,18 @@ title: "People"
 ---
 
 ::: ppl
-
 <!-- Giovanni -->
+
 ::: person
 ::: headshot
 ![](img/melandri.jpg)
 :::
+
 ::: blurb
 ### Giovanni Melandri
+
 ###### Assistant Professor
+
 Bio here
 :::
 :::
@@ -22,13 +25,16 @@ Bio here
 :::
 
 ::: blurb
-### Marlon 
+### Marlon
+
 ###### PostDoc
+
 Bio here
 :::
 :::
 
 <!-- Chosen -->
+
 ::: person
 ::: headshot
 ![](img/placeholder.jpg)
@@ -36,12 +42,15 @@ Bio here
 
 ::: blurb
 ### Chosen
+
 ###### PhD Student
+
 Bio here
 :::
 :::
 
 <!-- Sarah -->
+
 ::: person
 ::: headshot
 ![](img/placeholder.jpg)
@@ -49,11 +58,15 @@ Bio here
 
 ::: blurb
 ### Sarah
+
 ###### Research Technician
+
 Bio here
 :::
 :::
+
 <!-- Nathan -->
+
 ::: person
 ::: headshot
 ![](img/placeholder.jpg)
@@ -61,7 +74,9 @@ Bio here
 
 ::: blurb
 ### Nathan
+
 ###### Undergraduate Researcher
+
 Bio here
 :::
 :::

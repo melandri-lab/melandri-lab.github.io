@@ -1,6 +1,9 @@
+/*-- scss:defaults --*/
 
 // font
-  @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+JP&family=Open+Sans:wght@400;700&family=Questrial&family=Raleway:wght@600&display=swap');
+
 
 // colors
 
@@ -16,22 +19,25 @@ $highlight: #d303fc;
 $navbar-bg: $maroon;
 $body-bg: $white;
 
+//GLOBAL STYLES
 
-
-/*-- scss:rules --*/
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: 2px;
   font-weight: 700;
   color: $gray;
-  font-family: "Raleway", "Times", Sans-Serif;
-
+  font-family: 'Noto Sans', sans-serif;
 }
- .yr {
-    color: $gunmetal;
-  }
+
+p {
+    font-family: 'Noto Sans', sans-serif;
+}
 
 a {
-  color: $gunmetal;
+  color: $highlight;
+}
+
+a, a:link, a:visited {
+  color: $maroon;
 }
 
 .title {
@@ -59,28 +65,89 @@ a {
   width: auto;
 }
 
-
 .columns {
   padding: 20px;
   font-size: 1.2rem;
-  font-family: "Verdana", "Helvetica", Sans-Serif;
+  font-family: "Noto Sans","Helvetica", Sans-Serif;
 }
 
-//publications
+// PAGE-SPECIFIC STYLES
+
+// HOME/INDEX
+
+.title-banner {
+  position: static;
+}
+
+.title-text {
+
+  margin: auto;
+  position: absolute;
+  top: 45%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  left: 10%;
+
+
+  font-family: "Noto Sans","Helvetica", Sans-Serif;
+  color: #FFF;
+}
+
+.title-text .lab {
+  font-weight: bold;
+  margin: auto;
+  position: static;
+  font-size: 4.3rem;
+  font-weight: bold;
+  letter-spacing: 0.3rem;
+  text-shadow: 0px 0px 6px #305182;
+}
+.title-text .welcome {
+  position: absolute;
+  bottom: 80%;
+  left: 30%;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  text-shadow: 0px 0px 6px #000;
+}
+
+.title-text .uofa {
+  position: absolute;
+  top: 80%;
+  left: 20%;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  text-shadow: 0px 0px 8px #000;
+}
+
+.title-banner .img-fluid {
+  padding: 0px;
+  width: 100%;
+}
+
+.quarto-about-jolla.column-page {
+  margin: 0px 0px 0px 0px;
+}
+
+
+// ABOUT
+
+
+// PUBLICATIONS
+
+.yr {
+  color: $gunmetal;
+}
 
 .pub-list {
   color: $gunmetal;
-  a {
-    color: $gunmetal;
-  }
 }
+
 .pub {
   padding: 15px;
 }
 
-
-//people
-
+// PEOPLE
 
 .ppl {
   //background-color: $yellow;
@@ -100,7 +167,6 @@ a {
   border-bottom: 1px solid #ddd;
 }
 
-
 .headshot {
   //background-color: #009;
   max-width: 150px;
@@ -108,12 +174,13 @@ a {
   margin-right: 20px;
   display: table-cell;
 }
+
 .headshot .img-fluid {
   width: 300px; //fix this later
   border-radius: 50%;
   align-content: center;
-
 }
+
 .blurb {
   //background-color: #1B2;
   text-align: left;
