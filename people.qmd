@@ -13,9 +13,18 @@ title: "People"
 ::: blurb
 ### Giovanni Melandri
 
-###### Assistant Professor
+##### **Assistant Professor**
 
-Bio here
+##### Contact Information:
+
+::: contact
+Keating Bioresearch, Room 307
+
+[gmelandri\@arizona.edu](mailto:gmelandri@arizona.edu)
+:::
+
+##### Research Interests:
+
 :::
 :::
 
@@ -27,9 +36,15 @@ Bio here
 ::: blurb
 ### Marlon
 
-###### PostDoc
+##### **PostDoc**
 
-Bio here
+##### Contact Information:
+
+::: contact
+
+:::
+
+##### Research Interests: 
 :::
 :::
 
@@ -43,9 +58,14 @@ Bio here
 ::: blurb
 ### Chosen
 
-###### PhD Student
+##### **PhD Student**
 
-Bio here
+##### Contact Information:
+
+::: contact
+:::
+
+##### Research Interests: 
 :::
 :::
 
@@ -59,9 +79,15 @@ Bio here
 ::: blurb
 ### Sarah
 
-###### Research Technician
+##### **Research Technician**
 
-Bio here
+##### Contact Information:
+
+::: contact
+
+:::
+
+##### Research Interests: 
 :::
 :::
 
@@ -75,9 +101,14 @@ Bio here
 ::: blurb
 ### Nathan
 
-###### Undergraduate Researcher
+##### **Undergraduate Researcher**
 
-Bio here
+##### Contact Information:
+
+::: contact
+:::
+
+##### Research Interests: 
 :::
 :::
 :::
