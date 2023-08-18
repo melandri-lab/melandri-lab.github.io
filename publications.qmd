@@ -20,7 +20,7 @@ Andreo-Jimenez, B., te Beest, D.E., Kruijer, W. *et al*. **Genetic Mapping of th
 :::
 
 ::: pub
-Giovanni Melandri, Eliana Monteverde, David Riewe, Hamada AbdElgawad, Susan R McCouch, Harro Bouwmeester, **Can biochemical traits bridge the gap between genomics and plant performance? A study in rice under drought**, *Plant Physiology*, Volume 189, Issue 2, June 2022, Pages 1139--1152, \[https://doi.org/10.1093/plphys/kiac053\]https://doi.org/10.1093/plphys/kiac053
+Giovanni Melandri, Eliana Monteverde, David Riewe, Hamada AbdElgawad, Susan R McCouch, Harro Bouwmeester, **Can biochemical traits bridge the gap between genomics and plant performance? A study in rice under drought**, *Plant Physiology*, Volume 189, Issue 2, June 2022, Pages 1139--1152, <https://doi.org/10.1093/plphys/kiac053>
 :::
 
 ::: pub
@@ -34,6 +34,24 @@ Monica Borghi, Leonardo Perez de Souza, Takayuki Tohge, Jianing Mi, Giovanni Mel
 ::: pub
 Melandri, G., Thorp, K.R., Broeckling, C., Thompson, A.L., Hinze, L., and Pauli, D. **Assessing Drought and Heat Stress-Induced Changes in the Cotton Leaf Metabolome and Their Relationship with Hyperspectral Reflectance**. *Frontiers in Plant Science*. 12:2393. <https://doi.org/10.3389/fpls.2021.751868>
 :::
+
+::: pub
+Melandri, G., AbdElgawad, H., Floková, K. et al. **Drought tolerance in selected aerobic and upland rice varieties is driven by different metabolic and antioxidative responses**. *Planta* 254, 13 (2021). <https://doi.org/10.1007/s00425-021-03659-4>
+:::
+
+::: pub
+Melandri, G., Sikirou, M., Arbelaez, J. D., Shittu, A., Semwal, V. K., Konaté, K. A., … McCouch, S. R. (2021). **Multiple Small-Effect Alleles of Indica Origin Enhance High Iron-Associated Stress Tolerance in Rice Under Field Conditions in West Africa**. *Frontiers in Plant Science*, 11. <https://doi.org/10.3389/fpls.2020.604938>
+:::
+
+::: {.h2 .yr}
+2020
+:::
+
+::: pub
+Giovanni Melandri, Ankush Prashar, Susan R McCouch, Gerard van der Linden, Hamlyn G Jones, Niteen Kadam, Krishna Jagadish, Harro Bouwmeester, Carolien Ruyter-Spira, **Association mapping and genetic dissection of drought-induced canopy temperature differences in rice**, *Journal of Experimental Botany*, Volume 71, Issue 4, 7 February 2020, Pages 1614–1627, <https://doi.org/10.1093/jxb/erz527>
+:::
+
+
 :::
 
 ------------------------------------------------------------------------
