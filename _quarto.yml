@@ -13,7 +13,7 @@ website:
   favicon: img/sun_favicon.svg
 
   navbar:
-    logo: img/logo_rectangular.svg
+    logo: img/logo_rectangular2.svg
     logo-alt: "Melandri Lab"
     right:
       - href: index.qmd

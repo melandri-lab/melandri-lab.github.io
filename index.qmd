@@ -16,23 +16,81 @@ comments: false
 ---
 
 ::: {.main style="display: block;"}
-
 ::: title-banner
 ::: title-text
-
-:::{.welcome}
+::: welcome
 welcome to the
 :::
 
-:::{.lab}
+::: lab
 Melandri Lab
 :::
 
-:::{.uofa}
+::: uofa
 at the **University of Arizona**
+:::
+:::
+
+![](img/field_banner3.jpg)
+:::
+
+::: banner-bottom
+::: flag
+Find Us
+:::
+
+::: find-us
+::: col-left
+The Melandri Lab is located in Tucson, Arizona as part of the University of Arizona's BIO5 Institute and College of Agriculture, Life & Environmental Sciences. You can find us in the lab at Keating Bioresearch Building or in the field at Maricopa Agricultural Center.
+
+::: img-row
+::: img-col
+![](img/bio5_history.png)
+[BIO5 Institute at Thomas W. Keating Building](https://bio5.org/about/why-bio5)
+:::
+
+::: img-col
+![](img/mac.jpg)
+[Maricopa Agricultural Center](https://mac.arizona.edu/)
+:::
+:::
+
+
+::: logo-row
+::: logo-col
+![](img/cales.png)
+:::
+
+::: logo-col
+![](img/bio5-logo_0.png)
 :::
 
 :::
-![](img/field_banner3.jpg)
+:::
+
+::: col-right
+```{r echo=FALSE, warning=FALSE}
+library(leaflet)
+
+farm_icon <- makeIcon(
+  iconUrl = 'img/farm_icon.png',
+  iconWidth = 38, iconHeight = 38,
+  iconAnchorX = 0, iconAnchorY = 0,
+)
+lab_icon <- makeIcon(
+  iconUrl = 'img/lab_icon.png',
+  iconWidth = 30, iconHeight = 30,
+  iconAnchorX = 0, iconAnchorY = 0,
+)
+
+
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lat=33.07369449675769, lng=-111.97385881911408, popup="Maricopa Agricultural Center") %>%
+  addMarkers(lat=32.23773465647942, lng=-110.94715543646942, popup="Thomas W. Keating Bioresearch Building")
+
+```
+:::
+:::
 :::
 :::

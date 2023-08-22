@@ -57,7 +57,7 @@ a, a:link, a:visited {
   padding: auto;
 }
 .navbar-brand img { 
-  max-height: 60px;
+  max-height: 7.5vw;
   width: auto;
 }
 
@@ -76,14 +76,13 @@ a, a:link, a:visited {
 // HOME/INDEX
 
 .title-banner {
-  position: static;
+  position: relative;
 }
 
 .title-text {
-
   margin: auto;
   position: absolute;
-  top: 45%;
+  top: 40%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   left: 10%;
@@ -106,7 +105,7 @@ a, a:link, a:visited {
   position: absolute;
   bottom: 80%;
   left: 30%;
-  font-size: 2vw;
+  font-size: min(2vw, 24px);
   letter-spacing: 0.2rem;
   text-shadow: 0px 0px 6px #000;
 }
@@ -115,7 +114,7 @@ a, a:link, a:visited {
   position: absolute;
   top: 80%;
   left: 20%;
-  font-size: 2vw;
+  font-size: min(2vw, 24px);
   letter-spacing: 0.2rem;
   text-shadow: 0px 0px 8px #000;
 }
@@ -123,6 +122,91 @@ a, a:link, a:visited {
 .title-banner .img-fluid {
   padding: 0px;
   width: 100%;
+}
+
+.banner-bottom {
+  display: flex;
+
+}
+
+////  MAP WIDGET
+.col-right { 
+  padding: 2vw 0vw 1vw;;
+  float: right;
+  width: 30%;
+}
+
+
+////  FIND US
+.banner-bottom {
+  //background: rgba(121, 18, 49,.5);
+
+  display: inline;
+  text-align: left;
+}
+.flag {
+background: rgba(121, 18, 49,.5);
+  color: #FFF;
+  font-size: 2rem;
+  padding: 1rem 1rem 0.5rem;
+}
+.find-us {
+  display: flex;
+  flex-direction: row;
+}
+.col-left {
+  //background: #fff3b5;
+  width: 65%;
+  text-align: left;
+  padding: 1vw 2vw 1vw;
+  h2 {
+    margin: 0rem 0rem 1rem;
+  }
+  p {
+    padding: 1vw 1vw 1vw;
+  }
+  .img-col {
+    text-align: center;
+    a:link { text-decoration: none; 
+      
+    }
+    img {
+      padding: 1rem 0rem 1rem;
+    }
+    //background-color: #deffd6;
+    float: left;
+    width: 50%;
+    padding: 5px;
+  }
+  .logo-row {
+    display: inline;
+    text-align: center;
+    .logo-col {
+      width: 50%;
+      float: left;
+    }
+    img {
+      text-align: center;
+      margin: auto;
+      display: block;
+      height: 2.5vw;
+      width: auto;
+    }
+  
+}
+
+  .img-row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+}
+
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 .quarto-about-jolla.column-page {
